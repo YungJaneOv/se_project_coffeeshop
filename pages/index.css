@@ -9,15 +9,11 @@
 
 .inter-uniquifier {
   font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 0;
   font-style: normal;
 }
 
 .noto-serif-uniquifier {
   font-family: "Noto Serif", serif;
-  font-optical-sizing: auto;
-  font-weight: 0;
   font-style: normal;
   font-variation-settings: "wdth" 100;
 }
