@@ -1,0 +1,23 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.inter-uniquifier {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 0;
+  font-style: normal;
+}
+
+.noto-serif-uniquifier {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 0;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
