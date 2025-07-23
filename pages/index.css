@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 100px;
 }
 
 .page {
@@ -382,7 +383,8 @@ html {
   justify-content: space-between;
   position: relative;
   overflow: hidden;
-  z-index: 0;
+  z-index: 2;
+  background-color: rgba(255, 0, 0, 0.3);
 }
 
 .about__title {
