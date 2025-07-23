@@ -394,7 +394,7 @@ html {
   margin: 0;
 }
 
-.about__content {
+.about__description {
   max-width: 660px;
   display: flex;
   flex-direction: column;
