@@ -29,10 +29,13 @@
 .nav__link {
   text-decoration-line: none;
   color: black;
+  opacity: 1;
+  transition: background-color 0.5 ease, opacity 0.5s ease;
+  cursor: pointer;
 }
 
 .nav__link:hover {
-  opacity: 50%;
+  opacity: 1;
   transition: opacity 0.5s;
   color: #2f80ed;
 }
