@@ -21,4 +21,4 @@ _This is the second project of the Software Engineering program at TripleTen. It
 
 ###
 
-![images/demo](yuppers.png)
+![images\demo](./images/demo/yuppers.png)
