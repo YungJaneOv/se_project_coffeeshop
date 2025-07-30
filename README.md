@@ -18,7 +18,10 @@ _This is the second project of the Software Engineering program at TripleTen. It
 ## Plan on improving the project
 
 **creating a better file structure with the bem / working on the html with the menu / footer for a complete and detailed website.**
+**to plan on diversing time managament better for a easier progress throughout the entire duration of the project and projects in the future**
 
-###
+### Images
 
-![images\demo](./images/demo/yuppers.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-1.png) :3 yay
